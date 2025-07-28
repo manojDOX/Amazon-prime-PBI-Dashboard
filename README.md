@@ -122,7 +122,8 @@ The dashboard provides meaningful insights into Prime Video's content library an
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dab43e15-e928-410e-9035-c2743c44bb05.png)
+<img width="1846" height="1041" alt="image" src="https://github.com/user-attachments/assets/71fa25e5-64eb-4862-bfbd-3fba8ecd5a3c" />
+
 
 ---
 
