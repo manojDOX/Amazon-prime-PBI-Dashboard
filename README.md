@@ -112,9 +112,7 @@ The dashboard provides meaningful insights into Prime Video's content library an
 ```
 📦 Amazon-Prime-Video-PowerBI
 ├── 📊 Dashboard Screenshot.png
-├── 📂 data
-│   ├── titles.csv
-│   └── credits.csv
+├── capstone project.pbix
 ├── 📄 README.md
 ```
 
